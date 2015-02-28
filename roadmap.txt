@@ -1,0 +1,16 @@
+ROADMAP (short):
+
+* hijack, unwrap
+hijack passthrough
+hijack string
+hijack glob
+hijack regexp
+hijack data
+hijack error
+hijack delay
+
+NEXT:
+matcher
+handler
+statuscode and other jq apis
+	

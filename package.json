@@ -1,0 +1,22 @@
+{
+  "name": "jquery-ajax-hijack",
+  "version": "0.0.0",
+  "description": "a utility for hijacking/intercepting jQuery's ajax for mocking and testing purposes ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jquery",
+    "ajax",
+    "hijack",
+    "intercept",
+    "mock",
+    "test"
+  ],
+  "author": "I-Lin Kuo",
+  "license": "MIT",
+  "devDependencies": {
+    "jquery": "~2.1.3"
+  }
+}
